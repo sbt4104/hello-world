@@ -1,5 +1,5 @@
 # hello-world
-first_step
+
 hi friends,
 
 i like mathematics and competitive coding.
